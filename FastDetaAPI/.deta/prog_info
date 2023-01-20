@@ -1,0 +1,1 @@
+{"id":"36fb73a1-a25f-44e1-a88e-cadd411f0244","space":48563,"runtime":"python3.9","name":"FastDetaAPI","path":"692kcz","project":"e0oh0mne","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas"],"envs":null,"public":true,"log_level":"off","cron":""}
