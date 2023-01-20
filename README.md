@@ -1,6 +1,6 @@
 # Introducción
 
-Este proyecto se realizó con la finalidad de procesar la información de 4 archivos .csv , limpiar los datos para facilitar el reporte y mediante la publicación de un API publicar los resultados obtenidos.
+Este proyecto se realizó con la finalidad de procesar la información de 4 archivos .csv , limpiar los datos para facilitar el reporte y mediante la publicación de un API para mostrar los resultados obtenidos.
 
 ## Proceso para realizar  el proyecto
 ### Pasos para la lectura y limpieza de los datos
