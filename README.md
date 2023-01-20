@@ -56,6 +56,8 @@ Donde se implementó siguiendo los pasos que indica el enlace compartido previam
 
 Para observar a detalle como funciona la API y el proyecto en general presentado puede observar el siguiente video mediante el siguiente enlace :
 
+https://youtu.be/TjrZu8EWYlY
+
 #### Documentacion adicional de la API
 Cada función que presenta la API necesita de una cantidad determinada de parámetros que serán detallados a continuación:
 
