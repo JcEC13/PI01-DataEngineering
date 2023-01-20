@@ -57,7 +57,7 @@ Donde se implementó siguiendo los pasos que indica el enlace compartido previam
 Para observar a detalle como funciona la API y el proyecto en general presentado puede observar el siguiente video mediante el siguiente enlace :
 
 #### Documentacion adicional de la API
-Cada función que presenta la API necesita de una cantidad determinada de parámetros que serán detallandos a continuación:
+Cada función que presenta la API necesita de una cantidad determinada de parámetros que serán detallados a continuación:
 
 **Funciones:**
 - /get_word_count/{platform}/{keyword}
